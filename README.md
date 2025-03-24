@@ -17,24 +17,24 @@ This project is a machine learning classification model that predicts binary lab
   - **Recall (Class 1):** 48%
   - **F1-Score (Class 1):** 54%
   
-## 🚀 How to Run
-### 1️⃣ Clone the Repository
+## How to Run
+### Clone the Repository
 ```bash
 git clone https://github.com/M26I/telco-customer-churn-dataset
 cd telco-customer-churn-dataset
 ```
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🔥 Future Improvements
+## Future Improvements
 - Hyperparameter tuning to improve recall.
 - Implementing different threshold tuning strategies.
 - Deploying as a web app using **Flask/Streamlit** for easy user interaction.
 
-## 📜 License
+## License
 This project is open-source and free to use.
 
 ---
